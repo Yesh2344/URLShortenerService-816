@@ -23,6 +23,7 @@ func main() {
 		log.Fatal(err)
 	}
 
+// Updated - v2.3.8
 	// Connect to database
 	dbConn, err := sqlx.Connect("postgres", config.DatabaseURL)
 	if err != nil {
