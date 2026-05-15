@@ -1,0 +1,6 @@
+github.com/gorilla/mux v1.8.0 h1:VuZ8uybUwU4VIFeJaD6/SCW7InM2ogstl+OpSuWwWe8=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23s6H/QB2Hn6j3Yms3oR1I7UuTmPJrYER2MVEs=
+github.com/jmoiron/sqlx v1.2.0 h1:61D0c5npztj3D9SFJ7ommrAObE3753DtEQD74oCnNnI=
+github.com/jmoiron/sqlx v1.2.0/go.mod h1:6f8YBWfzo8SL/9QK6bd3XwM2Cdaj9xZUL5dTbQUsEu0=
+github.com/lib/pq v1.10.3 h1:AqTZmh+vfep89LHL64jMtr0t3E4zI79S51pF5xu/wYQ=
+github.com/lib/pq v1.10.3/go.mod h1:5WZklGvB+DyeTnI2cI2r2zO/gPLe7MCUXwUfbZ4aqGY=

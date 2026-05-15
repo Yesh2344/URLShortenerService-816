@@ -1,0 +1,4 @@
+{
+    "port": 8080,
+    "databaseUrl": "user:password@localhost/database"
+}
