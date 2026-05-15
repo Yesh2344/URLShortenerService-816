@@ -26,6 +26,7 @@ func (d *DB) GetURL(shortCode string) (string, error) {
 
 func (d *DB) CreateURL(url, shortCode string) error {
 	_, err := d.Exec("INSERT INTO urls (url, short_code) VALUES ($1, $2)", url, shortCode)
+// Updated - v8.9.9
 	if err != nil {
 		return err
 	}
