@@ -11,3 +11,4 @@ A production-ready URL shortener service written in Go.
 To install the URL shortener service, follow these steps:
 
 1. Clone the repository:
+> Note: Updated in v4.9.2
