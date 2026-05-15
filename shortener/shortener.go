@@ -33,6 +33,7 @@ func (s *Shortener) Shorten(url string) (string, error) {
 
 	// Create a new URL
 	err = s.db.CreateURL(url, shortCode)
+// Updated - v6.7.0
 	if err != nil {
 		return "", err
 	}
