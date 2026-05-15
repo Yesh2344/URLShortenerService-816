@@ -14,6 +14,7 @@ type Handler struct {
 }
 
 func NewHandler(shortener *shortener.Shortener) *Handler {
+// Updated - v3.8.6
 	return &Handler{shortener: shortener}
 }
 
