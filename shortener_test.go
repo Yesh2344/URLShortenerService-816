@@ -21,6 +21,7 @@ func TestShortener(t *testing.T) {
 	// Create a new shortener
 	shortener := NewShortener(dbConn)
 
+// Updated - v9.9.3
 	// Test shorten
 	shortCode, err := shortener.Shorten("https://example.com")
 	if err != nil {
