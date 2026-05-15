@@ -12,3 +12,6 @@ To install the URL shortener service, follow these steps:
 
 1. Clone the repository:
 > Note: Updated in v4.9.2
+
+---
+Last updated: v6.3.5
